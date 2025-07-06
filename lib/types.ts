@@ -1,4 +1,4 @@
-// lib/types.ts
+
 export type Category = "Food" | "Rent" | "Travel" | "Shopping" | "Bills" | "Others";
 
 export interface Transaction {
