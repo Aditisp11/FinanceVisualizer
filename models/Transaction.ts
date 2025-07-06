@@ -1,4 +1,4 @@
-// models/Transaction.ts
+
 import mongoose, { Schema } from "mongoose";
 
 const TransactionSchema = new Schema({
